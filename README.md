@@ -3,4 +3,4 @@
 
 ![About Screenshot](https://raw.githubusercontent.com/LotBDev/Responsive-Portfolio-Assignment/main/Assets/Screenshot1.PNG)
 ![Portfolio Screenshot](https://raw.githubusercontent.com/LotBDev/Responsive-Portfolio-Assignment/main/Assets/Screenshot2.PNG)
-![Contact Screenshot](https://raw.githubusercontent.com/LotBDev/Responsive-Portfolio-Assignment/main/Assets/Screenshot2.PNG)
+![Contact Screenshot](https://raw.githubusercontent.com/LotBDev/Responsive-Portfolio-Assignment/main/Assets/Screenshot3.PNG)
